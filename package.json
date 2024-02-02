@@ -1,6 +1,6 @@
 {
-  "name": "@jrainlau/asar",
-  "description": "Creating Electron app packages",
+  "name": "asar-fork",
+  "description": "Creating Electron app packages (fork from @electron/asar)",
   "version": "1.0.0",
   "main": "./lib/asar.js",
   "types": "./lib/index.d.ts",
